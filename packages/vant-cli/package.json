@@ -39,7 +39,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/fs-extra": "11.0.1",
-    "@types/less": "3.0.3",
+    "@types/less": "3.0.5",
     "@types/lodash": "4.14.197",
     "@types/markdown-it": "13.0.0",
     "rimraf": "5.0.1",
