@@ -31,8 +31,8 @@
   "author": "chenjiahan",
   "license": "MIT",
   "devDependencies": {
-    "@types/fs-extra": "11.0.1",
-    "rimraf": "5.0.1",
+    "@types/fs-extra": "11.0.3",
+    "rimraf": "5.0.5",
     "typescript": "5.1.6"
   },
   "dependencies": {
