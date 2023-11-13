@@ -246,8 +246,8 @@ importers:
         specifier: 11.0.1
         version: 11.0.1
       '@types/less':
-        specifier: 3.0.3
-        version: 3.0.3
+        specifier: 3.0.6
+        version: 3.0.6
       '@types/lodash':
         specifier: 4.14.197
         version: 4.14.197
@@ -984,8 +984,8 @@ packages:
       '@types/node': 18.17.5
     dev: true
 
-  /@types/less@3.0.3:
-    resolution: {integrity: sha512-1YXyYH83h6We1djyoUEqTlVyQtCfJAFXELSKW2ZRtjHD4hQ82CC4lvrv5D0l0FLcKBaiPbXyi3MpMsI9ZRgKsw==}
+  /@types/less@3.0.6:
+    resolution: {integrity: sha512-PecSzorDGdabF57OBeQO/xFbAkYWo88g4Xvnsx7LRwqLC17I7OoKtA3bQB9uXkY6UkMWCOsA8HSVpaoitscdXw==}
     dev: true
 
   /@types/linkify-it@3.0.2:
