@@ -76,7 +76,7 @@
     "terser": "5.19.2",
     "transliteration": "2.3.5",
     "typescript": "5.1.6",
-    "vite": "4.4.9",
+    "vite": "5.0.12",
     "vue-router": "4.2.4"
   }
 }
