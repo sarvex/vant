@@ -119,8 +119,8 @@ importers:
         specifier: 3.3.4
         version: 3.3.4
       vue-router:
-        specifier: 4.2.4
-        version: 4.2.4(vue@3.3.4)
+        specifier: 4.3.2
+        version: 4.3.2(vue@3.3.4)
 
   packages/vant-area-data:
     devDependencies:
@@ -239,8 +239,8 @@ importers:
         specifier: 4.4.9
         version: 4.4.9(less@4.2.0)(terser@5.19.2)
       vue-router:
-        specifier: 4.2.4
-        version: 4.2.4(vue@3.3.4)
+        specifier: 4.3.2
+        version: 4.3.2(vue@3.3.4)
     devDependencies:
       '@types/fs-extra':
         specifier: 11.0.1
@@ -1277,8 +1277,8 @@ packages:
       '@vue/compiler-dom': 3.3.4
       '@vue/shared': 3.3.4
 
-  /@vue/devtools-api@6.5.0:
-    resolution: {integrity: sha512-o9KfBeaBmCKl10usN4crU53fYtC1r7jJwdGKjPT24t348rHxgfpZ0xL3Xm/gLUYnc0oTp8LAmrxOeLyu6tbk2Q==}
+  /@vue/devtools-api@6.6.2:
+    resolution: {integrity: sha512-134clD8u7cBBXdmBbXI282gHGF7T/eAbD/G7mAK2llQF62IbI4ny28IVamZVMoJSvfImC2Xxnj732hXkJvUj6g==}
 
   /@vue/reactivity-transform@3.3.4:
     resolution: {integrity: sha512-MXgwjako4nu5WFLAjpBnCj/ieqcjE2aJBINUNQzkZQfzIZA4xn+0fV1tIYBJvvva3N3OvKGofRLvQIwEQPpaXw==}
@@ -3443,12 +3443,12 @@ packages:
       - supports-color
     dev: false
 
-  /vue-router@4.2.4(vue@3.3.4):
-    resolution: {integrity: sha512-9PISkmaCO02OzPVOMq2w82ilty6+xJmQrarYZDkjZBfl4RvYAlt4PKnEX21oW4KTtWfa9OuO/b3qk1Od3AEdCQ==}
+  /vue-router@4.3.2(vue@3.3.4):
+    resolution: {integrity: sha512-hKQJ1vDAZ5LVkKEnHhmm1f9pMiWIBNGF5AwU67PdH7TyXCj/a4hTccuUuYCAMgJK6rO/NVYtQIEN3yL8CECa7Q==}
     peerDependencies:
       vue: ^3.2.0
     dependencies:
-      '@vue/devtools-api': 6.5.0
+      '@vue/devtools-api': 6.6.2
       vue: 3.3.4
 
   /vue@3.3.4:
